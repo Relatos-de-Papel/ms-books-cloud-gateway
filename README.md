@@ -1,1 +1,1 @@
-# ms-books-cloud-gateway-
+# ms-books-cloud-gateway
